@@ -1,4 +1,5 @@
 data/*
+.gitignore
 .ipynb_checkpoints
 code.ipynb
 tests.ipynb
